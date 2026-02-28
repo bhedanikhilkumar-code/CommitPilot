@@ -710,3 +710,8 @@ def pacing_tip_1794():
 def pacing_tip_1804():
     tips = ['ship early', 'review daily', 'track blockers', 'limit WIP']
     return tips[1804 % len(tips)]
+
+
+def pacing_tip_1814():
+    tips = ['ship early', 'review daily', 'track blockers', 'limit WIP']
+    return tips[1814 % len(tips)]
