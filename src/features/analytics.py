@@ -1071,3 +1071,10 @@ def confidence_score_1991():
     goal = max(1, s.get('goal_commits', 1))
     done = s.get('completed_commits', 0)
     return round(min(1.0, done/goal), 3)
+
+
+def momentum_score_2001():
+    s = load_state()
+    g = max(1, s.get('goal_commits', 1))
+    d = s.get('completed_commits', 0)
+    return round((d / g) * 100, 2)
