@@ -152,3 +152,4 @@ This project is licensed under the [MIT License](./LICENSE).
 - Milestone checkpoint 569
 - Milestone checkpoint 579
 - Milestone checkpoint 589
+- Milestone checkpoint 599
