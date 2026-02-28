@@ -85,3 +85,4 @@ All notable changes to this project will be documented in this file.
 - Internal platform checkpoint 757
 - Internal platform checkpoint 767
 - Reliability checkpoint 1004
+- Reliability checkpoint 1013
