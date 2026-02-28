@@ -722,3 +722,9 @@ def test_streak_checkpoint_1488():
 def test_streak_checkpoint_1497():
     from src.features.streaks import streak_checkpoint_1497
     assert streak_checkpoint_1497(3) == 4
+
+
+def test_validate_commit_note_1505():
+    from src.features.validators import validate_commit_note_1505
+    assert validate_commit_note_1505('use clear message')
+    assert not validate_commit_note_1505('no')
