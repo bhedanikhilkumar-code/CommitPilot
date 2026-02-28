@@ -180,3 +180,4 @@ This project is licensed under the [MIT License](./LICENSE).
 - Extended checkpoint 1051
 - Extended checkpoint 1060
 - Extended checkpoint 1069
+- Extended checkpoint 1078
