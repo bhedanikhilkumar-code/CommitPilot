@@ -170,3 +170,4 @@
 - [ ] Operations checkpoint 1698
 - [ ] Operations checkpoint 1708
 - [ ] Operations checkpoint 1718
+- [ ] Operations checkpoint 1728
