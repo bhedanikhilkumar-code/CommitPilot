@@ -854,3 +854,9 @@ def batching_plan_1992(size: int = 5):
     state = load_state()
     tasks = state.get('tasks', [])
     return [tasks[j:j+size] for j in range(0, len(tasks), size)]
+
+
+def priority_bucket_2002(limit: int = 5):
+    s = load_state()
+    tasks = s.get('tasks', [])
+    return [x.get('title', 'Untitled') for x in tasks[:limit]]
