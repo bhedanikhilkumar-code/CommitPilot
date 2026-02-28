@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "commitpilot"
+version = "0.1.0"
+description = "A lightweight CLI to plan and track daily commit goals"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+  { name = "bhedanikhilkumar-code" }
+]
+dependencies = [
+  "python-dateutil==2.9.0.post0",
+  "rich==13.9.4"
+]
+
+[project.scripts]
+commitpilot = "src.cli:main"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+addopts = "-q"
