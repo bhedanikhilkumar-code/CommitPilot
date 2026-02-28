@@ -8,3 +8,12 @@ def add_task(title: str):
 def list_tasks():
     state = load_state()
     return state.get('tasks', [])
+
+def complete_task(index: int):
+    state = load_state()
+    tasks = state.get('tasks', [])
+    if 0 <= index < len(tasks):
+        tasks[index]['done'] = True
+        save_state(state)
+        return True
+    return False
