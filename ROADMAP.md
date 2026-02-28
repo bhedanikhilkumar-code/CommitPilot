@@ -260,3 +260,4 @@
 - [ ] Mega delivery checkpoint 2598
 - [ ] Mega delivery checkpoint 2608
 - [ ] Mega delivery checkpoint 2618
+- [ ] Mega delivery checkpoint 2628
