@@ -249,3 +249,4 @@ All notable changes to this project will be documented in this file.
 - Hyper scale checkpoint 2567
 - Hyper scale checkpoint 2577
 - Hyper scale checkpoint 2587
+- Hyper scale checkpoint 2597
