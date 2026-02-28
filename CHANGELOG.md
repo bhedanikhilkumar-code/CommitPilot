@@ -82,3 +82,4 @@ All notable changes to this project will be documented in this file.
 - Internal platform checkpoint 727
 - Internal platform checkpoint 737
 - Internal platform checkpoint 747
+- Internal platform checkpoint 757
