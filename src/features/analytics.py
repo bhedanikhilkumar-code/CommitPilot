@@ -574,3 +574,10 @@ def burnup_projection_561(days: int = 14):
     goal = max(1, state.get('goal_commits', 1))
     done = state.get('completed_commits', 0)
     return {'checkpoint': 561, 'days': days, 'goal': goal, 'done': done}
+
+
+def burnup_projection_571(days: int = 14):
+    state = load_state()
+    goal = max(1, state.get('goal_commits', 1))
+    done = state.get('completed_commits', 0)
+    return {'checkpoint': 571, 'days': days, 'goal': goal, 'done': done}
