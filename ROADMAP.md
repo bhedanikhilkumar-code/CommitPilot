@@ -199,3 +199,4 @@
 - [ ] Operations checkpoint 1988
 - [ ] Operations checkpoint 1998
 - [ ] Mega delivery checkpoint 2008
+- [ ] Mega delivery checkpoint 2018
