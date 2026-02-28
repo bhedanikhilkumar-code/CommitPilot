@@ -166,3 +166,4 @@
 - [ ] Operations checkpoint 1658
 - [ ] Operations checkpoint 1668
 - [ ] Operations checkpoint 1678
+- [ ] Operations checkpoint 1688
