@@ -147,3 +147,7 @@ def template_checkpoint_1322():
 
 def template_checkpoint_1331():
     return 'template-1331'
+
+
+def template_checkpoint_1340():
+    return 'template-1340'
