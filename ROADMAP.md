@@ -240,3 +240,4 @@
 - [ ] Mega delivery checkpoint 2398
 - [ ] Mega delivery checkpoint 2408
 - [ ] Mega delivery checkpoint 2418
+- [ ] Mega delivery checkpoint 2428
