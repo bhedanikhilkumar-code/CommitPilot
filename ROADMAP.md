@@ -326,3 +326,4 @@
 - [ ] Mega delivery checkpoint 3258
 - [ ] Mega delivery checkpoint 3268
 - [ ] Mega delivery checkpoint 3278
+- [ ] Mega delivery checkpoint 3288
