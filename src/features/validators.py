@@ -1275,3 +1275,7 @@ def validate_checkpoint_id_3913(value: int) -> bool:
 
 def validate_checkpoint_id_3923(value: int) -> bool:
     return isinstance(value, int) and value > 0
+
+
+def validate_checkpoint_id_3933(value: int) -> bool:
+    return isinstance(value, int) and value > 0
