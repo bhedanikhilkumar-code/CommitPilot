@@ -203,3 +203,11 @@ def export_json_checkpoint_225(path: str):
     with open(path, 'w', encoding='utf-8') as fp:
         json.dump(state, fp, indent=2)
     return path
+
+
+def export_markdown_checkpoint_230(path: str):
+    state_text = str(__import__('src.state', fromlist=['load_state']).load_state())
+    with open(path, 'w', encoding='utf-8') as fp:
+        fp.write('# Commit Snapshot\n\n')
+        fp.write(state_text)
+    return path
