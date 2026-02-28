@@ -607,3 +607,8 @@ def test_streak_checkpoint_1281():
 def test_streak_checkpoint_1290():
     from src.features.streaks import streak_checkpoint_1290
     assert streak_checkpoint_1290(3) == 4
+
+
+def test_streak_checkpoint_1299():
+    from src.features.streaks import streak_checkpoint_1299
+    assert streak_checkpoint_1299(3) == 4
