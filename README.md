@@ -83,3 +83,6 @@ Contributions are welcome. If you’d like to improve CommitPilot:
 ## 📄 License
 This project is licensed under the [MIT License](./LICENSE).
 
+
+## Iterative Enhancements
+- Iterative feature checkpoint 7
