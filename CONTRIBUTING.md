@@ -18,3 +18,5 @@ Thanks for your interest in contributing.
 - Use a clear title and summary
 - Mention related issue(s)
 - Ensure tests pass before opening PR
+
+- Quality gate reminder 103: keep PRs small and testable
