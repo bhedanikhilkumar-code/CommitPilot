@@ -107,3 +107,4 @@
 - [ ] Delivery checkpoint 1113
 - [ ] Delivery checkpoint 1122
 - [ ] Delivery checkpoint 1131
+- [ ] Delivery checkpoint 1140
