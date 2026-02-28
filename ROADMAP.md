@@ -57,3 +57,4 @@
 - [ ] Platform hardening checkpoint 398
 - [ ] Platform hardening checkpoint 408
 - [ ] Platform hardening checkpoint 418
+- [ ] Platform hardening checkpoint 428
