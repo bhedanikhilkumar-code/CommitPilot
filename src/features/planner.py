@@ -72,3 +72,11 @@ def plan_slots_67(slots: int = 4):
     for i, task in enumerate(tasks[:slots]):
         plan.append({'slot': i+1, 'task': task.get('title', 'Untitled')})
     return plan
+
+def plan_slots_75(slots: int = 4):
+    state = load_state()
+    tasks = state.get('tasks', [])
+    plan = []
+    for i, task in enumerate(tasks[:slots]):
+        plan.append({'slot': i+1, 'task': task.get('title', 'Untitled')})
+    return plan
