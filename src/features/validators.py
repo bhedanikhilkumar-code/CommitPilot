@@ -103,3 +103,7 @@ def validate_task_title_263(title: str) -> bool:
 
 def validate_task_title_273(title: str) -> bool:
     return isinstance(title, str) and len(title.strip()) >= 3
+
+
+def validate_task_title_283(title: str) -> bool:
+    return isinstance(title, str) and len(title.strip()) >= 3
