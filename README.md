@@ -1,5 +1,9 @@
 # CommitPilot
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 CommitPilot is a lightweight Python CLI that helps developers plan, track, and sustain daily coding consistency.
 
 ## 🚀 Why CommitPilot?
@@ -61,5 +65,14 @@ Contributions are welcome. If you’d like to improve CommitPilot:
 3. Commit with clear messages
 4. Open a pull request
 
+## 🖼️ Screenshots
+> Add screenshots to `docs/screenshots/` and link them below.
+
+### CLI Overview
+![CLI Overview](docs/screenshots/cli-overview.png)
+
+### Progress Output
+![Progress Output](docs/screenshots/progress-output.png)
+
 ## 📄 License
-This project is currently unlicensed. Add a license file (e.g., MIT) before public reuse.
+This project is licensed under the [MIT License](./LICENSE).
