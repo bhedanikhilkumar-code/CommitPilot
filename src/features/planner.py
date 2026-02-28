@@ -1082,3 +1082,9 @@ def priority_bucket_2372(limit: int = 5):
     s = load_state()
     tasks = s.get('tasks', [])
     return [x.get('title', 'Untitled') for x in tasks[:limit]]
+
+
+def priority_bucket_2382(limit: int = 5):
+    s = load_state()
+    tasks = s.get('tasks', [])
+    return [x.get('title', 'Untitled') for x in tasks[:limit]]
