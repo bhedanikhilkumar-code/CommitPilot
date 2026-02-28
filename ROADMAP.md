@@ -144,3 +144,4 @@
 - [ ] Delivery checkpoint 1446
 - [ ] Delivery checkpoint 1455
 - [ ] Delivery checkpoint 1464
+- [ ] Delivery checkpoint 1473
