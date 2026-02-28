@@ -815,3 +815,8 @@ def execution_tip_2004():
 def execution_tip_2014():
     tips = ['test first', 'doc while coding', 'batch tiny fixes', 'ship daily']
     return tips[2014 % len(tips)]
+
+
+def execution_tip_2024():
+    tips = ['test first', 'doc while coding', 'batch tiny fixes', 'ship daily']
+    return tips[2024 % len(tips)]
