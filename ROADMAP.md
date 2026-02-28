@@ -365,3 +365,4 @@
 - [ ] Mega delivery checkpoint 3648
 - [ ] Mega delivery checkpoint 3658
 - [ ] Mega delivery checkpoint 3668
+- [ ] Mega delivery checkpoint 3678
