@@ -17,3 +17,4 @@ All notable changes to this project will be documented in this file.
 - Maintenance update checkpoint 130
 - Maintenance update checkpoint 135
 - Maintenance update checkpoint 140
+- Maintenance update checkpoint 145
