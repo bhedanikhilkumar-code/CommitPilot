@@ -83,3 +83,7 @@ def validate_goal_212(value: int) -> bool:
 
 def validate_goal_220(value: int) -> bool:
     return isinstance(value, int) and 1 <= value <= 10000
+
+
+def validate_task_title_233(title: str) -> bool:
+    return isinstance(title, str) and len(title.strip()) >= 3
