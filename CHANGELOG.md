@@ -29,3 +29,4 @@ All notable changes to this project will be documented in this file.
 - Maintenance update checkpoint 190
 - Maintenance update checkpoint 195
 - Maintenance update checkpoint 200
+- Internal platform checkpoint 227
