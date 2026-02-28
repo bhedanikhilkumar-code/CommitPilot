@@ -120,3 +120,4 @@
 - [ ] Delivery checkpoint 1230
 - [ ] Delivery checkpoint 1239
 - [ ] Delivery checkpoint 1248
+- [ ] Delivery checkpoint 1257
