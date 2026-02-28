@@ -932,3 +932,9 @@ def test_validate_commit_note_1845():
     from src.features.validators import validate_commit_note_1845
     assert validate_commit_note_1845('use clear message')
     assert not validate_commit_note_1845('no')
+
+
+def test_validate_commit_note_1855():
+    from src.features.validators import validate_commit_note_1855
+    assert validate_commit_note_1855('use clear message')
+    assert not validate_commit_note_1855('no')
