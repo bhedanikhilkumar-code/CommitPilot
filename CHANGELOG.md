@@ -103,3 +103,4 @@ All notable changes to this project will be documented in this file.
 - Reliability checkpoint 1148
 - Reliability checkpoint 1157
 - Reliability checkpoint 1166
+- Reliability checkpoint 1175
