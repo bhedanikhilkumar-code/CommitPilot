@@ -20,3 +20,4 @@ Thanks for your interest in contributing.
 - Ensure tests pass before opening PR
 
 - Quality gate reminder 103: keep PRs small and testable
+- Quality gate reminder 108: keep PRs small and testable
