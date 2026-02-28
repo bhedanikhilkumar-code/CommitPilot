@@ -118,3 +118,4 @@ All notable changes to this project will be documented in this file.
 - Reliability checkpoint 1283
 - Reliability checkpoint 1292
 - Reliability checkpoint 1301
+- Reliability checkpoint 1310
