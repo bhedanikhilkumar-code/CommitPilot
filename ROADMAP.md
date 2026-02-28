@@ -65,3 +65,4 @@
 - [ ] Platform hardening checkpoint 478
 - [ ] Platform hardening checkpoint 488
 - [ ] Platform hardening checkpoint 498
+- [ ] Platform hardening checkpoint 508
