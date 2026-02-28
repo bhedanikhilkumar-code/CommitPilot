@@ -20,3 +20,6 @@ def validate_goal_44(value: int) -> bool:
 
 def validate_goal_52(value: int) -> bool:
     return isinstance(value, int) and 1 <= value <= 10000
+
+def validate_goal_60(value: int) -> bool:
+    return isinstance(value, int) and 1 <= value <= 10000
