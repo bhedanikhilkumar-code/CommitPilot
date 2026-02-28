@@ -158,3 +158,4 @@
 - [ ] Operations checkpoint 1578
 - [ ] Operations checkpoint 1588
 - [ ] Operations checkpoint 1598
+- [ ] Operations checkpoint 1608
