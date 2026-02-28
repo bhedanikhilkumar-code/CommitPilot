@@ -482,3 +482,4 @@
 - [ ] Mega delivery checkpoint 4818
 - [ ] Mega delivery checkpoint 4828
 - [ ] Mega delivery checkpoint 4838
+- [ ] Mega delivery checkpoint 4848
