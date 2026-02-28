@@ -81,3 +81,4 @@
 - [ ] Platform hardening checkpoint 638
 - [ ] Platform hardening checkpoint 648
 - [ ] Platform hardening checkpoint 658
+- [ ] Platform hardening checkpoint 668
