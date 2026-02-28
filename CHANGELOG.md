@@ -148,3 +148,4 @@ All notable changes to this project will be documented in this file.
 - Scale checkpoint 1557
 - Scale checkpoint 1567
 - Scale checkpoint 1577
+- Scale checkpoint 1587
