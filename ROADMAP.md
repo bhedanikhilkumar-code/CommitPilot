@@ -485,3 +485,4 @@
 - [ ] Mega delivery checkpoint 4848
 - [ ] Mega delivery checkpoint 4858
 - [ ] Mega delivery checkpoint 4868
+- [ ] Mega delivery checkpoint 4878
