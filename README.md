@@ -276,3 +276,4 @@ This project is licensed under the [MIT License](./LICENSE).
 - Mega checkpoint 1949
 - Mega checkpoint 1959
 - Mega checkpoint 1969
+- Mega checkpoint 1979
