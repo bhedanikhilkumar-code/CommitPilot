@@ -447,3 +447,8 @@ def test_validate_task_title_775():
 def test_streak_checkpoint_1002():
     from src.features.streaks import streak_checkpoint_1002
     assert streak_checkpoint_1002(3) == 4
+
+
+def test_streak_checkpoint_1011():
+    from src.features.streaks import streak_checkpoint_1011
+    assert streak_checkpoint_1011(3) == 4
