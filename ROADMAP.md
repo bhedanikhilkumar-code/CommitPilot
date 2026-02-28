@@ -382,3 +382,4 @@
 - [ ] Mega delivery checkpoint 3818
 - [ ] Mega delivery checkpoint 3828
 - [ ] Mega delivery checkpoint 3838
+- [ ] Mega delivery checkpoint 3848
