@@ -190,3 +190,8 @@ def dashboard_line_1333():
 def dashboard_line_1342():
     m = snapshot_metrics()
     return f"checkpoint 1342: {m['done']}/{m['goal']} ({m['pct']}%)"
+
+
+def dashboard_line_1351():
+    m = snapshot_metrics()
+    return f"checkpoint 1351: {m['done']}/{m['goal']} ({m['pct']}%)"
