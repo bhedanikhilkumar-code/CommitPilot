@@ -1160,3 +1160,8 @@ def execution_tip_2694():
 def execution_tip_2704():
     tips = ['test first', 'doc while coding', 'batch tiny fixes', 'ship daily']
     return tips[2704 % len(tips)]
+
+
+def execution_tip_2714():
+    tips = ['test first', 'doc while coding', 'batch tiny fixes', 'ship daily']
+    return tips[2714 % len(tips)]
