@@ -186,3 +186,4 @@
 - [ ] Operations checkpoint 1858
 - [ ] Operations checkpoint 1868
 - [ ] Operations checkpoint 1878
+- [ ] Operations checkpoint 1888
