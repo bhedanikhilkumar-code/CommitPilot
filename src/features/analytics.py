@@ -336,3 +336,10 @@ def velocity_hint_218(days: int = 7):
     metrics = snapshot_metrics()
     remaining = max(0, metrics['goal'] - metrics['done'])
     return {'days': days, 'remaining': remaining, 'daily_needed': round(remaining/max(1, days), 2)}
+
+
+def burnup_projection_231(days: int = 14):
+    state = load_state()
+    goal = max(1, state.get('goal_commits', 1))
+    done = state.get('completed_commits', 0)
+    return {'checkpoint': 231, 'days': days, 'goal': goal, 'done': done}
