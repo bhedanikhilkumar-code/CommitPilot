@@ -202,3 +202,4 @@
 - [ ] Mega delivery checkpoint 2018
 - [ ] Mega delivery checkpoint 2028
 - [ ] Mega delivery checkpoint 2038
+- [ ] Mega delivery checkpoint 2048
