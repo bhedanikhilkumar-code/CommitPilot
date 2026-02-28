@@ -113,3 +113,6 @@ This project is licensed under the [MIT License](./LICENSE).
 - Iterative feature checkpoint 207
 - Iterative feature checkpoint 215
 - Iterative feature checkpoint 223
+
+## Scale Milestones
+- Milestone checkpoint 229
