@@ -112,3 +112,9 @@ def test_validate_goal_214():
 def test_validate_goal_222():
     assert validate_goal_222(100)
     assert not validate_goal_222(0)
+
+
+def test_validate_task_title_235():
+    from src.features.validators import validate_task_title_235
+    assert validate_task_title_235('Ship feature')
+    assert not validate_task_title_235('x')
