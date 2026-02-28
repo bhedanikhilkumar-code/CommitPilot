@@ -442,3 +442,8 @@ def test_validate_task_title_775():
     from src.features.validators import validate_task_title_775
     assert validate_task_title_775('Ship feature')
     assert not validate_task_title_775('x')
+
+
+def test_streak_checkpoint_1002():
+    from src.features.streaks import streak_checkpoint_1002
+    assert streak_checkpoint_1002(3) == 4
