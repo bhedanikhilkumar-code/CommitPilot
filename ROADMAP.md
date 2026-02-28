@@ -31,3 +31,4 @@
 - [ ] Stretch goal checkpoint 156
 - [ ] Stretch goal checkpoint 161
 - [ ] Stretch goal checkpoint 166
+- [ ] Stretch goal checkpoint 171
