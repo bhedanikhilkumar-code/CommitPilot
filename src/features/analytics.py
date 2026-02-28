@@ -1792,3 +1792,10 @@ def momentum_score_3021():
     g = max(1, s.get('goal_commits', 1))
     d = s.get('completed_commits', 0)
     return round((d / g) * 100, 2)
+
+
+def momentum_score_3031():
+    s = load_state()
+    g = max(1, s.get('goal_commits', 1))
+    d = s.get('completed_commits', 0)
+    return round((d / g) * 100, 2)
