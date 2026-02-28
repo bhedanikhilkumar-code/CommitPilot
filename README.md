@@ -196,3 +196,4 @@ This project is licensed under the [MIT License](./LICENSE).
 - Extended checkpoint 1195
 - Extended checkpoint 1204
 - Extended checkpoint 1213
+- Extended checkpoint 1222
