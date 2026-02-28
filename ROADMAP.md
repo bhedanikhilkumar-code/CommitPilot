@@ -149,3 +149,4 @@
 - [ ] Delivery checkpoint 1491
 - [ ] Delivery checkpoint 1500
 - [ ] Operations checkpoint 1508
+- [ ] Operations checkpoint 1518
