@@ -39,3 +39,4 @@
 - [ ] Stretch goal checkpoint 196
 - [ ] Platform hardening checkpoint 228
 - [ ] Platform hardening checkpoint 238
+- [ ] Platform hardening checkpoint 248
