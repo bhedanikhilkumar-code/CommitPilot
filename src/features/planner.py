@@ -224,3 +224,9 @@ def plan_slots_219(slots: int = 4):
     for i, task in enumerate(tasks[:slots]):
         plan.append({'slot': i+1, 'task': task.get('title', 'Untitled')})
     return plan
+
+
+def focus_plan_232(top_n: int = 3):
+    state = load_state()
+    tasks = state.get('tasks', [])
+    return [t.get('title', 'Untitled') for t in tasks[:top_n]]
