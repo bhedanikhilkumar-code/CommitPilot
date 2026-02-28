@@ -328,3 +328,4 @@ This project is licensed under the [MIT License](./LICENSE).
 - Ultra checkpoint 2449
 - Ultra checkpoint 2459
 - Ultra checkpoint 2469
+- Ultra checkpoint 2479
