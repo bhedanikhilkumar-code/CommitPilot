@@ -39,3 +39,7 @@ def template_checkpoint_1079():
 
 def template_checkpoint_1088():
     return 'template-1088'
+
+
+def template_checkpoint_1097():
+    return 'template-1097'
