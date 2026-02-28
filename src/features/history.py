@@ -165,3 +165,8 @@ def timeline_checkpoint_1287():
 def timeline_checkpoint_1296():
     state = load_state()
     return {'checkpoint': 1296, 'tasks': len(state.get('tasks', []))}
+
+
+def timeline_checkpoint_1305():
+    state = load_state()
+    return {'checkpoint': 1305, 'tasks': len(state.get('tasks', []))}
