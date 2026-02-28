@@ -189,3 +189,4 @@ All notable changes to this project will be documented in this file.
 - Scale checkpoint 1967
 - Scale checkpoint 1977
 - Scale checkpoint 1987
+- Scale checkpoint 1997
