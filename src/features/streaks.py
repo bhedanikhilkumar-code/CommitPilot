@@ -84,3 +84,7 @@ def streak_checkpoint_1172(current: int):
 
 def streak_checkpoint_1181(current: int):
     return max(0, current) + 1
+
+
+def streak_checkpoint_1190(current: int):
+    return max(0, current) + 1
