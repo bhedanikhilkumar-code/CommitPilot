@@ -41,3 +41,4 @@
 - [ ] Platform hardening checkpoint 238
 - [ ] Platform hardening checkpoint 248
 - [ ] Platform hardening checkpoint 258
+- [ ] Platform hardening checkpoint 268
