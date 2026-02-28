@@ -124,3 +124,9 @@ def test_validate_task_title_245():
     from src.features.validators import validate_task_title_245
     assert validate_task_title_245('Ship feature')
     assert not validate_task_title_245('x')
+
+
+def test_validate_task_title_255():
+    from src.features.validators import validate_task_title_255
+    assert validate_task_title_255('Ship feature')
+    assert not validate_task_title_255('x')
