@@ -380,3 +380,4 @@ All notable changes to this project will be documented in this file.
 - Hyper scale checkpoint 3877
 - Hyper scale checkpoint 3887
 - Hyper scale checkpoint 3897
+- Hyper scale checkpoint 3907
