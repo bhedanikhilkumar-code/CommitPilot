@@ -10,3 +10,4 @@ All notable changes to this project will be documented in this file.
 - Packaging metadata and test/CI scaffolding
 
 - Maintenance update checkpoint 105
+- Maintenance update checkpoint 110
