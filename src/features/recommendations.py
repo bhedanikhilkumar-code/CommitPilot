@@ -280,3 +280,8 @@ def recommend_next_action_221():
     if done < goal * 0.5:
         return 'Focus on small, shippable commits.'
     return 'Maintain pace with quality checks.'
+
+
+def quality_tip_234():
+    tips = ['write tests', 'small commits', 'clear messages', 'refactor regularly']
+    return tips[234 % len(tips)]
