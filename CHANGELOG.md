@@ -133,3 +133,4 @@ All notable changes to this project will be documented in this file.
 - Reliability checkpoint 1418
 - Reliability checkpoint 1427
 - Reliability checkpoint 1436
+- Reliability checkpoint 1445
