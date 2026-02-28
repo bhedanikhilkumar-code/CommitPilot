@@ -476,3 +476,4 @@
 - [ ] Mega delivery checkpoint 4758
 - [ ] Mega delivery checkpoint 4768
 - [ ] Mega delivery checkpoint 4778
+- [ ] Mega delivery checkpoint 4788
