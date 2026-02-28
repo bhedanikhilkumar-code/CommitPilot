@@ -5,3 +5,6 @@ def completion_percent(state):
 
 def remaining_commits(state):
     return max(0, state['goal_commits'] - state['completed_commits'])
+
+
+# checkpoint_102: retained for history cleanliness
