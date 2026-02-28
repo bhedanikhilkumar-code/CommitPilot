@@ -18,3 +18,4 @@
 - [ ] Iteration checkpoint 94
 - [ ] Iteration checkpoint 98
 - [ ] Stretch goal checkpoint 101
+- [ ] Stretch goal checkpoint 106
