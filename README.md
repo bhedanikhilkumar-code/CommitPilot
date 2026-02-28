@@ -169,3 +169,4 @@ This project is licensed under the [MIT License](./LICENSE).
 - Milestone checkpoint 739
 - Milestone checkpoint 749
 - Milestone checkpoint 759
+- Milestone checkpoint 769
