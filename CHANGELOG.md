@@ -160,3 +160,4 @@ All notable changes to this project will be documented in this file.
 - Scale checkpoint 1677
 - Scale checkpoint 1687
 - Scale checkpoint 1697
+- Scale checkpoint 1707
