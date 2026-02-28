@@ -721,3 +721,10 @@ def burnup_projection_771(days: int = 14):
     goal = max(1, state.get('goal_commits', 1))
     done = state.get('completed_commits', 0)
     return {'checkpoint': 771, 'days': days, 'goal': goal, 'done': done}
+
+
+def confidence_score_1501():
+    s = load_state()
+    goal = max(1, s.get('goal_commits', 1))
+    done = s.get('completed_commits', 0)
+    return round(min(1.0, done/goal), 3)
