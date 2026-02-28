@@ -2931,3 +2931,11 @@ def export_yaml_checkpoint_4360(path: str):
         for k, v in state.items():
             fp.write(f"{k}: {v}\n")
     return path
+
+
+def export_yaml_checkpoint_4370(path: str):
+    state = __import__('src.state', fromlist=['load_state']).load_state()
+    with open(path, 'w', encoding='utf-8') as fp:
+        for k, v in state.items():
+            fp.write(f"{k}: {v}\n")
+    return path
