@@ -27,3 +27,4 @@ Thanks for your interest in contributing.
 - Quality gate reminder 128: keep PRs small and testable
 - Quality gate reminder 133: keep PRs small and testable
 - Quality gate reminder 138: keep PRs small and testable
+- Quality gate reminder 143: keep PRs small and testable
