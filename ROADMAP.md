@@ -124,3 +124,4 @@
 - [ ] Delivery checkpoint 1266
 - [ ] Delivery checkpoint 1275
 - [ ] Delivery checkpoint 1284
+- [ ] Delivery checkpoint 1293
