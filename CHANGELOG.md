@@ -11,3 +11,4 @@ All notable changes to this project will be documented in this file.
 
 - Maintenance update checkpoint 105
 - Maintenance update checkpoint 110
+- Maintenance update checkpoint 115
