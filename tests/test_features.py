@@ -430,3 +430,9 @@ def test_validate_task_title_755():
     from src.features.validators import validate_task_title_755
     assert validate_task_title_755('Ship feature')
     assert not validate_task_title_755('x')
+
+
+def test_validate_task_title_765():
+    from src.features.validators import validate_task_title_765
+    assert validate_task_title_765('Ship feature')
+    assert not validate_task_title_765('x')
