@@ -119,3 +119,7 @@ def template_checkpoint_1259():
 
 def template_checkpoint_1268():
     return 'template-1268'
+
+
+def template_checkpoint_1277():
+    return 'template-1277'
