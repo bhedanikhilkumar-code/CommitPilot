@@ -90,3 +90,13 @@ def recommend_next_action_69():
     if done < goal * 0.5:
         return 'Focus on small, shippable commits.'
     return 'Maintain pace with quality checks.'
+
+def recommend_next_action_77():
+    state = load_state()
+    done = state.get('completed_commits', 0)
+    goal = max(1, state.get('goal_commits', 1))
+    if done >= goal:
+        return 'Goal reached. Switch to refactor/tests.'
+    if done < goal * 0.5:
+        return 'Focus on small, shippable commits.'
+    return 'Maintain pace with quality checks.'
