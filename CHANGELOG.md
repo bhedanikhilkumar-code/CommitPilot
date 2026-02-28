@@ -140,3 +140,4 @@ All notable changes to this project will be documented in this file.
 - Reliability checkpoint 1481
 - Reliability checkpoint 1490
 - Reliability checkpoint 1499
+- Scale checkpoint 1507
