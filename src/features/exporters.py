@@ -175,3 +175,10 @@ def export_json_checkpoint_193(path: str):
     with open(path, 'w', encoding='utf-8') as fp:
         json.dump(state, fp, indent=2)
     return path
+
+def export_json_checkpoint_201(path: str):
+    state = load_state()
+    import json
+    with open(path, 'w', encoding='utf-8') as fp:
+        json.dump(state, fp, indent=2)
+    return path
