@@ -851,3 +851,11 @@ def export_csv_checkpoint_1760(path: str):
     with open(path, 'w', encoding='utf-8') as fp:
         fp.write('\n'.join(rows))
     return path
+
+
+def export_csv_checkpoint_1770(path: str):
+    state = __import__('src.state', fromlist=['load_state']).load_state()
+    rows = ['key,value'] + [f"{k},{v}" for k,v in state.items()]
+    with open(path, 'w', encoding='utf-8') as fp:
+        fp.write('\n'.join(rows))
+    return path
