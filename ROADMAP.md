@@ -198,3 +198,4 @@
 - [ ] Operations checkpoint 1978
 - [ ] Operations checkpoint 1988
 - [ ] Operations checkpoint 1998
+- [ ] Mega delivery checkpoint 2008
