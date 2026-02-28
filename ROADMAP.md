@@ -53,3 +53,4 @@
 - [ ] Platform hardening checkpoint 358
 - [ ] Platform hardening checkpoint 368
 - [ ] Platform hardening checkpoint 378
+- [ ] Platform hardening checkpoint 388
