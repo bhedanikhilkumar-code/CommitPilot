@@ -89,3 +89,4 @@ All notable changes to this project will be documented in this file.
 - Reliability checkpoint 1022
 - Reliability checkpoint 1031
 - Reliability checkpoint 1040
+- Reliability checkpoint 1049
