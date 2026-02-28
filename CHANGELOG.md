@@ -191,3 +191,4 @@ All notable changes to this project will be documented in this file.
 - Scale checkpoint 1987
 - Scale checkpoint 1997
 - Hyper scale checkpoint 2007
+- Hyper scale checkpoint 2017
