@@ -525,3 +525,8 @@ def quality_tip_704():
 def quality_tip_714():
     tips = ['write tests', 'small commits', 'clear messages', 'refactor regularly']
     return tips[714 % len(tips)]
+
+
+def quality_tip_724():
+    tips = ['write tests', 'small commits', 'clear messages', 'refactor regularly']
+    return tips[724 % len(tips)]
