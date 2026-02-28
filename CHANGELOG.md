@@ -60,3 +60,4 @@ All notable changes to this project will be documented in this file.
 - Internal platform checkpoint 507
 - Internal platform checkpoint 517
 - Internal platform checkpoint 527
+- Internal platform checkpoint 537
