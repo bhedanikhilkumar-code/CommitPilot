@@ -94,3 +94,4 @@
 - [ ] Platform hardening checkpoint 768
 - [ ] Delivery checkpoint 1005
 - [ ] Delivery checkpoint 1014
+- [ ] Delivery checkpoint 1023
