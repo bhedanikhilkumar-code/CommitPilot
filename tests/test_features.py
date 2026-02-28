@@ -44,3 +44,7 @@ def test_validate_goal_78():
 def test_validate_goal_86():
     assert validate_goal_86(100)
     assert not validate_goal_86(0)
+
+def test_validate_goal_94():
+    assert validate_goal_94(100)
+    assert not validate_goal_94(0)
