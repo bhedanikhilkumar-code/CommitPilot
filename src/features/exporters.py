@@ -1043,3 +1043,11 @@ def export_csv_checkpoint_2000(path: str):
     with open(path, 'w', encoding='utf-8') as fp:
         fp.write('\n'.join(rows))
     return path
+
+
+def export_yaml_checkpoint_2010(path: str):
+    state = __import__('src.state', fromlist=['load_state']).load_state()
+    with open(path, 'w', encoding='utf-8') as fp:
+        for k, v in state.items():
+            fp.write(f"{k}: {v}\n")
+    return path
