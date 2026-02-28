@@ -507,3 +507,7 @@ def validate_commit_note_1993(text: str) -> bool:
 
 def validate_checkpoint_id_2003(value: int) -> bool:
     return isinstance(value, int) and value > 0
+
+
+def validate_checkpoint_id_2013(value: int) -> bool:
+    return isinstance(value, int) and value > 0
