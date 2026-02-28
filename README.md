@@ -273,3 +273,4 @@ This project is licensed under the [MIT License](./LICENSE).
 - Mega checkpoint 1919
 - Mega checkpoint 1929
 - Mega checkpoint 1939
+- Mega checkpoint 1949
