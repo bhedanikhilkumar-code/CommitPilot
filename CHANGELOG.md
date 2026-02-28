@@ -271,3 +271,4 @@ All notable changes to this project will be documented in this file.
 - Hyper scale checkpoint 2787
 - Hyper scale checkpoint 2797
 - Hyper scale checkpoint 2807
+- Hyper scale checkpoint 2817
