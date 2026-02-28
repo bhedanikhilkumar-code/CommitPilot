@@ -176,3 +176,4 @@
 - [ ] Operations checkpoint 1758
 - [ ] Operations checkpoint 1768
 - [ ] Operations checkpoint 1778
+- [ ] Operations checkpoint 1788
