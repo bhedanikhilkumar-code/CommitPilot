@@ -3,6 +3,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
+![CI](https://github.com/bhedanikhilkumar-code/CommitPilot/actions/workflows/ci.yml/badge.svg)
 
 CommitPilot is a lightweight Python CLI that helps developers plan, track, and sustain daily coding consistency.
 
@@ -35,6 +36,11 @@ CommitPilot/
 └── ROADMAP.md
 ```
 
+## 🏷️ Versioning & Release
+- Current version is tracked in VERSION.
+- Bump patch version locally using:
+  - python scripts/bump_version.py`n- Create a release by pushing a tag:
+  - git tag v0.1.1 && git push origin v0.1.1`n
 ## ⚙️ Getting Started
 ### 1) Clone the repository
 ```bash
@@ -76,3 +82,4 @@ Contributions are welcome. If you’d like to improve CommitPilot:
 
 ## 📄 License
 This project is licensed under the [MIT License](./LICENSE).
+
