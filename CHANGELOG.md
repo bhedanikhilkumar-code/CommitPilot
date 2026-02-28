@@ -38,3 +38,4 @@ All notable changes to this project will be documented in this file.
 - Internal platform checkpoint 287
 - Internal platform checkpoint 297
 - Internal platform checkpoint 307
+- Internal platform checkpoint 317
