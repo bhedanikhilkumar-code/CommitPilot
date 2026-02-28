@@ -910,3 +910,10 @@ def confidence_score_1761():
     goal = max(1, s.get('goal_commits', 1))
     done = s.get('completed_commits', 0)
     return round(min(1.0, done/goal), 3)
+
+
+def confidence_score_1771():
+    s = load_state()
+    goal = max(1, s.get('goal_commits', 1))
+    done = s.get('completed_commits', 0)
+    return round(min(1.0, done/goal), 3)
