@@ -810,3 +810,8 @@ def pacing_tip_1994():
 def execution_tip_2004():
     tips = ['test first', 'doc while coding', 'batch tiny fixes', 'ship daily']
     return tips[2004 % len(tips)]
+
+
+def execution_tip_2014():
+    tips = ['test first', 'doc while coding', 'batch tiny fixes', 'ship daily']
+    return tips[2014 % len(tips)]
