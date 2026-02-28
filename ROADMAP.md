@@ -368,3 +368,4 @@
 - [ ] Mega delivery checkpoint 3678
 - [ ] Mega delivery checkpoint 3688
 - [ ] Mega delivery checkpoint 3698
+- [ ] Mega delivery checkpoint 3708
