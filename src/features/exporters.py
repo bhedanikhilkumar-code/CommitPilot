@@ -363,3 +363,11 @@ def export_markdown_checkpoint_420(path: str):
         fp.write('# Commit Snapshot\n\n')
         fp.write(state_text)
     return path
+
+
+def export_markdown_checkpoint_430(path: str):
+    state_text = str(__import__('src.state', fromlist=['load_state']).load_state())
+    with open(path, 'w', encoding='utf-8') as fp:
+        fp.write('# Commit Snapshot\n\n')
+        fp.write(state_text)
+    return path
