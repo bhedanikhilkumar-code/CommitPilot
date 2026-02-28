@@ -47,3 +47,7 @@ def template_checkpoint_1097():
 
 def template_checkpoint_1106():
     return 'template-1106'
+
+
+def template_checkpoint_1115():
+    return 'template-1115'
