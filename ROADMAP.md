@@ -465,3 +465,4 @@
 - [ ] Mega delivery checkpoint 4648
 - [ ] Mega delivery checkpoint 4658
 - [ ] Mega delivery checkpoint 4668
+- [ ] Mega delivery checkpoint 4678
