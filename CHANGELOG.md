@@ -178,3 +178,4 @@ All notable changes to this project will be documented in this file.
 - Scale checkpoint 1857
 - Scale checkpoint 1867
 - Scale checkpoint 1877
+- Scale checkpoint 1887
