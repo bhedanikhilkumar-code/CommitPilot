@@ -187,3 +187,4 @@ All notable changes to this project will be documented in this file.
 - Scale checkpoint 1947
 - Scale checkpoint 1957
 - Scale checkpoint 1967
+- Scale checkpoint 1977
