@@ -45,3 +45,4 @@ All notable changes to this project will be documented in this file.
 - Internal platform checkpoint 357
 - Internal platform checkpoint 367
 - Internal platform checkpoint 377
+- Internal platform checkpoint 387
