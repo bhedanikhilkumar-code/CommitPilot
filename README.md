@@ -1,57 +1,65 @@
 # CommitPilot
 
-A lightweight Python CLI to plan, track, and improve daily coding consistency.
+CommitPilot is a lightweight Python CLI that helps developers plan, track, and sustain daily coding consistency.
 
-## Vision
-Help developers turn contribution goals into practical daily tasks.
+## 🚀 Why CommitPilot?
+Maintaining momentum is hard when goals are vague. CommitPilot turns contribution targets into clear, actionable daily progress.
 
-- Added productivity note 11
-- Added productivity note 12
-- Added productivity note 13
-- Added productivity note 14
-- Added productivity note 15
-- Added productivity note 16
-- Added productivity note 17
-- Added productivity note 18
-- Added productivity note 19
-- Added productivity note 20
-- Added productivity note 21
-- Added productivity note 22
-- Added productivity note 23
-- Added productivity note 24
-- Added productivity note 25
-- Added productivity note 26
-- Added productivity note 27
-- Added productivity note 28
-- Added productivity note 29
-- Added productivity note 30
-- Added productivity note 31
-- Added productivity note 32
-- Added productivity note 33
-- Added productivity note 34
-- Added productivity note 35
-- Added productivity note 36
-- Added productivity note 37
-- Added productivity note 38
-- Added productivity note 39
-- Added productivity note 40
-- Added productivity note 41
-- Added productivity note 42
-- Added productivity note 43
-- Added productivity note 44
-- Added productivity note 45
-- Added productivity note 46
-- Added productivity note 47
-- Added productivity note 48
-- Added productivity note 49
-- Added productivity note 50
-- Workflow improvement note 61
-- Workflow improvement note 65
-- Workflow improvement note 69
-- Workflow improvement note 73
-- Workflow improvement note 77
-- Workflow improvement note 81
-- Workflow improvement note 85
-- Workflow improvement note 89
-- Workflow improvement note 93
-- Workflow improvement note 97
+## ✨ Core Features
+- **Goal tracking** for daily commit targets
+- **Task management** (add, list, mark complete)
+- **Progress metrics** with completion percentage
+- **Quick reporting** for status and task breakdown
+- **Simple local JSON state** (no database setup required)
+
+## 🧱 Project Structure
+```text
+CommitPilot/
+├── data/
+│   └── state.json
+├── docs/
+├── src/
+│   ├── cli.py
+│   ├── goals.py
+│   ├── metrics.py
+│   ├── reports.py
+│   ├── state.py
+│   ├── streak.py
+│   └── tasks.py
+├── main.py
+├── requirements.txt
+└── ROADMAP.md
+```
+
+## ⚙️ Getting Started
+### 1) Clone the repository
+```bash
+git clone https://github.com/bhedanikhilkumar-code/CommitPilot.git
+cd CommitPilot
+```
+
+### 2) Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3) Run the CLI
+```bash
+python main.py
+```
+
+## 🗺️ Roadmap
+Planned improvements are tracked in [`ROADMAP.md`](./ROADMAP.md), including:
+- richer CLI commands
+- export/reporting options
+- improved streak analytics
+
+## 🤝 Contributing
+Contributions are welcome. If you’d like to improve CommitPilot:
+1. Fork the repo
+2. Create a feature branch
+3. Commit with clear messages
+4. Open a pull request
+
+## 📄 License
+This project is currently unlicensed. Add a license file (e.g., MIT) before public reuse.
