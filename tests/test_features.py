@@ -1268,3 +1268,9 @@ def test_validate_checkpoint_id_2405():
     from src.features.validators import validate_checkpoint_id_2405
     assert validate_checkpoint_id_2405(1)
     assert not validate_checkpoint_id_2405(0)
+
+
+def test_validate_checkpoint_id_2415():
+    from src.features.validators import validate_checkpoint_id_2415
+    assert validate_checkpoint_id_2415(1)
+    assert not validate_checkpoint_id_2415(0)
