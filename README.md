@@ -173,3 +173,4 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## Extended Milestones
 - Extended checkpoint 1006
+- Extended checkpoint 1015
