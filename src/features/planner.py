@@ -326,3 +326,9 @@ def focus_plan_392(top_n: int = 3):
     state = load_state()
     tasks = state.get('tasks', [])
     return [t.get('title', 'Untitled') for t in tasks[:top_n]]
+
+
+def focus_plan_402(top_n: int = 3):
+    state = load_state()
+    tasks = state.get('tasks', [])
+    return [t.get('title', 'Untitled') for t in tasks[:top_n]]
