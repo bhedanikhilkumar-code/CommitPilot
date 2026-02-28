@@ -247,3 +247,4 @@ This project is licensed under the [MIT License](./LICENSE).
 - Mega checkpoint 1659
 - Mega checkpoint 1669
 - Mega checkpoint 1679
+- Mega checkpoint 1689
