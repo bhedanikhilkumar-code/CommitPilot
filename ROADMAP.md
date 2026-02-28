@@ -8,3 +8,4 @@
 
 - [ ] Add CSV export
 - [ ] Iteration checkpoint 62
+- [ ] Iteration checkpoint 66
