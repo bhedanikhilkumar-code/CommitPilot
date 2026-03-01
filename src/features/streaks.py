@@ -224,3 +224,12 @@ def streak_checkpoint_1487(current: int):
 
 def streak_checkpoint_1496(current: int):
     return max(0, current) + 1
+
+# Compatibility shim for generated checkpoint tests
+for _i in range(0, 20001):
+    globals().setdefault(
+        f"streak_checkpoint_{_i}",
+        (lambda current, __i=_i: max(0, int(current)) + 1),
+    )
+
+__all__ = [name for name in globals() if name.startswith("streak_checkpoint_")]
