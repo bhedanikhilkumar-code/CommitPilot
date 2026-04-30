@@ -1,41 +1,62 @@
 # Contributing to CommitPilot
 
-Thanks for your interest in contributing.
+Thanks for checking out this project. This repository is maintained with a portfolio-quality workflow: small changes, clear commits, readable documentation, and practical review notes.
 
-## Setup
-1. Fork the repository
-2. Clone your fork
-3. Create a virtual environment
-4. Install dependencies:
-   - `pip install -r requirements.txt`
+## Contribution Principles
 
-## Development Rules
-- Keep commits focused and descriptive
-- Add tests for new functionality
-- Update docs for user-visible changes
+- Keep changes focused and easy to review.
+- Prefer clarity over cleverness.
+- Update documentation when behavior, setup, or architecture changes.
+- Avoid committing secrets, generated credentials, personal tokens, or private environment files.
+- Include screenshots, terminal output, or test notes for UI/behavior changes.
 
-## Pull Requests
-- Use a clear title and summary
-- Mention related issue(s)
-- Ensure tests pass before opening PR
+## Recommended Workflow
 
-- Quality gate reminder 103: keep PRs small and testable
-- Quality gate reminder 108: keep PRs small and testable
-- Quality gate reminder 113: keep PRs small and testable
-- Quality gate reminder 118: keep PRs small and testable
-- Quality gate reminder 123: keep PRs small and testable
-- Quality gate reminder 128: keep PRs small and testable
-- Quality gate reminder 133: keep PRs small and testable
-- Quality gate reminder 138: keep PRs small and testable
-- Quality gate reminder 143: keep PRs small and testable
-- Quality gate reminder 148: keep PRs small and testable
-- Quality gate reminder 153: keep PRs small and testable
-- Quality gate reminder 158: keep PRs small and testable
-- Quality gate reminder 163: keep PRs small and testable
-- Quality gate reminder 168: keep PRs small and testable
-- Quality gate reminder 173: keep PRs small and testable
-- Quality gate reminder 178: keep PRs small and testable
-- Quality gate reminder 183: keep PRs small and testable
-- Quality gate reminder 188: keep PRs small and testable
-- Quality gate reminder 193: keep PRs small and testable
-- Quality gate reminder 198: keep PRs small and testable
+```bash
+# 1. Create a focused branch
+git checkout -b docs/improve-project-notes
+
+# 2. Make the change
+# edit files
+
+# 3. Review locally
+git status
+git diff --check
+
+# 4. Commit with a meaningful message
+git add .
+git commit -m "docs: improve project documentation"
+
+# 5. Push and open a pull request
+git push origin HEAD
+```
+
+## Commit Style
+
+Use concise, meaningful commit messages:
+
+- `docs: update architecture notes`
+- `feat: add transaction filter`
+- `fix: handle empty input state`
+- `refactor: simplify service layer`
+- `test: add workflow coverage`
+
+## Pull Request Checklist
+
+Before opening a PR, confirm:
+
+- [ ] The change has one clear purpose.
+- [ ] README/docs were updated when needed.
+- [ ] No secrets or local-only files were committed.
+- [ ] Screenshots/test notes are included for visible changes.
+- [ ] The project still runs or the limitation is clearly documented.
+
+## Documentation Standard
+
+This portfolio uses a consistent documentation layer:
+
+- `README.md` for first impression and high-level overview.
+- `docs/ARCHITECTURE.md` for structure and system thinking.
+- `docs/CASE_STUDY.md` for product story and decisions.
+- `docs/ROADMAP.md` for future improvements.
+- `.github/` templates for professional issue and PR handling.
